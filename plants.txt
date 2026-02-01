@@ -1,0 +1,21 @@
+-name             | scientific name           | light  | moisture  | growth  | container size
+Anthurium         | Anthurium spp.            | medium | wet       | slow    | small
+Arrowhead Plant   | Syngonium podophyllum     | medium | wet       | fast    | small
+Beefsteak Begonia | Begonia erythrophylla     | low    | wet       | slow    | small
+Chinese Evergreen | Aglaonema                 | low    | dry       | slow    | small
+Coleus            | Coleus scutellarioides    | medium | wet       | fast    | small
+Corn Plant        | Dracaena fragrans         | medium | dry       | slow    | large
+Croton            | Codiaeum variegatum       | medium | wet       | slow    | small
+English Ivy       | Hedera helix              | low    | dry       | fast    | small
+Ferns             | Various species           | low    | wet       | slow    | small
+Fiddle Leaf Fig   | Ficus lyrata              | high   | dry       | slow    | large
+Green Spider Plant| Chlorophytum comosum      | medium | dry       | fast    | small
+Hydrangea         | Hydrangea spp.            | medium | wet       | slow    | large
+Juniper           | Juniperus spp.            | high   | dry       | slow    | large
+Lemon Tree        | Citrus limon              | high   | dry       | slow    | large
+Money Tree        | Pachira aquatica          | medium | dry       | slow    | large
+Mulberry Tree     | Morus spp.                | high   | dry       | fast    | large
+Peace Lily        | Spathiphyllum spp.        | low    | wet       | slow    | small
+Pothos            | Epipremnum aureum         | medium | dry       | fast    | small
+Umbrella Plant    | Schefflera arboricola     | medium | dry       | fast    | large
+
