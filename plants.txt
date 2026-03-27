@@ -18,4 +18,7 @@ Mulberry Tree     | Morus spp.                | high   | dry       | fast    | l
 Peace Lily        | Spathiphyllum spp.        | low    | wet       | slow    | small
 Pothos            | Epipremnum aureum         | medium | dry       | fast    | small
 Umbrella Plant    | Schefflera arboricola     | medium | dry       | fast    | large
-
+Vitex trifolia Purpurea|
+Coprosma Taupata Gold|
+Achillea Moonshine
+Kalanchoe mother of thousands
