@@ -1,24 +1,30 @@
--name             | scientific name           | light  | moisture  | growth  | container size
-Anthurium         | Anthurium spp.            | medium | wet       | slow    | small
-Arrowhead Plant   | Syngonium podophyllum     | medium | wet       | fast    | small
-Beefsteak Begonia | Begonia erythrophylla     | low    | wet       | slow    | small
-Chinese Evergreen | Aglaonema                 | low    | dry       | slow    | small
-Coleus            | Coleus scutellarioides    | medium | wet       | fast    | small
-Corn Plant        | Dracaena fragrans         | medium | dry       | slow    | large
-Croton            | Codiaeum variegatum       | medium | wet       | slow    | small
-English Ivy       | Hedera helix              | low    | dry       | fast    | small
-Ferns             | Various species           | low    | wet       | slow    | small
-Fiddle Leaf Fig   | Ficus lyrata              | high   | dry       | slow    | large
-Green Spider Plant| Chlorophytum comosum      | medium | dry       | fast    | small
-Hydrangea         | Hydrangea spp.            | medium | wet       | slow    | large
-Juniper           | Juniperus spp.            | high   | dry       | slow    | large
-Lemon Tree        | Citrus limon              | high   | dry       | slow    | large
-Money Tree        | Pachira aquatica          | medium | dry       | slow    | large
-Mulberry Tree     | Morus spp.                | high   | dry       | fast    | large
-Peace Lily        | Spathiphyllum spp.        | low    | wet       | slow    | small
-Pothos            | Epipremnum aureum         | medium | dry       | fast    | small
-Umbrella Plant    | Schefflera arboricola     | medium | dry       | fast    | large
-Vitex trifolia Purpurea|
-Coprosma Taupata Gold|
-Achillea Moonshine
-Kalanchoe mother of thousands
+-name                         | scientific name        | light  | moisture | growth | container size | mix ratio        
+Achillea Moonshine            |                        |        |          |        |                |                  
+Anthurium                     | Anthurium spp.         | medium | wet      | slow   | small          | 2:1 peat:pumice  
+Arrowhead Plant               | Syngonium podophyllum  | medium | wet      | fast   | small          | 2:1 peat:pumice  
+Basil                         | Ocimum basilicum       | high   | wet      | fast   | small/medium   | 2:1 peat:pumice  
+Beefsteak Begonia             | Begonia erythrophylla  | low    | wet      | slow   | small          | 2:1 peat:pumice  
+Chinese Evergreen             | Aglaonema              | low    | dry      | slow   | small          | 1.5:1 peat:pumice
+Coleus                        | Coleus scutellarioides | medium | wet      | fast   | small          | 2:1 peat:pumice  
+Coprosma Taupata Gold         |                        |        |          |        |                |                  
+Coral Bells                   | Heuchera × hybrida     | medium | wet      | slow   | small/medium   | 2:1 peat:pumice  
+Corn Plant                    | Dracaena fragrans      | medium | dry      | slow   | large          | 1:1 peat:pumice  
+Croton                        | Codiaeum variegatum    | medium | wet      | slow   | small          | 2:1 peat:pumice  
+English Ivy                   | Hedera helix           | low    | dry      | fast   | small          | 1:1 peat:pumice  
+Eucalyptus                    | Eucalyptus spp.        | high   | dry      | fast   | large          | 1:2 peat:pumice  
+Ferns                         | Various species        | low    | wet      | slow   | small          | 3:1 peat:pumice  
+Fiddle Leaf Fig               | Ficus lyrata           | high   | dry      | slow   | large          | 1:1 peat:pumice  
+Green Spider Plant            | Chlorophytum comosum   | medium | dry      | fast   | small          | 1:1 peat:pumice  
+Hydrangea                     | Hydrangea spp.         | medium | wet      | slow   | large          | 2:1 peat:pumice  
+Juniper                       | Juniperus spp.         | high   | dry      | slow   | large          | 1:2 peat:pumice  
+Kalanchoe mother of thousands |                        |        |          |        |                |                  
+Lavender                      | Lavandula spp.         | high   | dry      | slow   | small/medium   | 1:3 peat:pumice  
+Lemon Tree                    | Citrus limon           | high   | dry      | slow   | large          | 1:1 peat:pumice  
+Money Tree                    | Pachira aquatica       | medium | dry      | slow   | large          | 1:1 peat:pumice  
+Mulberry Tree                 | Morus spp.             | high   | dry      | fast   | large          | 1:1 peat:pumice  
+Peace Lily                    | Spathiphyllum spp.     | low    | wet      | slow   | small          | 3:1 peat:pumice  
+Poinsettia                    | Euphorbia pulcherrima  | medium | wet      | slow   | small          | 2:1 peat:pumice  
+Pothos                        | Epipremnum aureum      | medium | dry      | fast   | small          | 1:1 peat:pumice  
+Rosemary                      | Salvia rosmarinus      | high   | dry      | slow   | small/medium   | 1:2 peat:pumice  
+Umbrella Plant                | Schefflera arboricola  | medium | dry      | fast   | large          | 1:1 peat:pumice  
+Vitex trifolia Purpurea       |                        |        |          |        |                |                  
