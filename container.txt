@@ -1,0 +1,21 @@
+#name               | scientific name        | light  | water
+Juniper             | Juniperus spp.         | high   | dry
+Corn Plant          | Dracaena fragrans      | medium | dry
+Pothos              | Epipremnum aureum      | medium | dry
+Umbrella Plant      | Schefflera arboricola  | medium | dry
+
+Eucalyptus          | Eucalyptus spp.        | high   | moist
+Fiddle Leaf Fig     | Ficus lyrata           | high   | moist
+Lemon Tree          | Citrus limon           | high   | moist
+mirror plant        | Coprosma Taupata Gold  | high   | moist
+Croton              | Codiaeum variegatum    | high   | moist
+Green Spider Plant  | Chlorophytum comosum   | medium | moist
+Beefsteak Begonia   | Begonia erythrophylla  | medium | moist
+Anthurium           | Anthurium spp.         | medium | moist
+Coral Bells         | Heuchera × hybrida     | medium | moist
+English Ivy         | Hedera helix           | medium | moist
+Money Tree          | Pachira aquatica       | medium | moist
+Chinese Evergreen   | Aglaonema              | low    | moist
+
+Peace Lily          | Spathiphyllum spp.     | low    | wet
+Coleus              | Coleus scutellarioides | medium | wet

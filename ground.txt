@@ -1,0 +1,6 @@
+Vitex trifolia Purpurea       | Vitex trifolia           | high   | dry      | fast   | large
+Ferns                         | Various species          | low    | wet      | fast   | small
+Hydrangea                     | Hydrangea spp.           | medium | wet      | fast   | large
+Kalanchoe mother of thousands | Kalanchoe daigremontiana | high   | dry      | fast   | small
+Lavender                      | Lavandula spp.           | high   | dry      | slow   | small/medium
+Rosemary                      | Salvia rosmarinus        | high   | dry      | slow   | small/medium
